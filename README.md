@@ -2,6 +2,8 @@
 
 Parallax Gallery Animation from both side of the screen.
 
+https://github.com/aqua30/parallax-gallery-animation/assets/4559525/01cc745b-332e-4abd-a96c-0e7ce0831a19
+
 ## Inspiration
 Google Photos memory carousel
 
