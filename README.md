@@ -1,16 +1,12 @@
-# parallax_gallery_animation
+# Parallax Gallery Animation
 
-A new Flutter project.
+Parallax Gallery Animation from both side of the screen.
 
-## Getting Started
+## Inspiration
+Google Photos memory carousel
 
-This project is a starting point for a Flutter application.
+## Watch the speed code on YouTube
+https://youtu.be/QNe-bxZBFmg?si=Fp5i8qYD4l4n_-qS
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Read the article on Medium
+https://medium.com/@saurabhpant/parallax-gallery-view-animation-in-flutter-e55a267fd5c8
